@@ -58,3 +58,5 @@ Have some fun by enhancing the game any way you like. A few ideas are as follows
 -Enhanced game play and game over messages.
 
 -Enhanced game display, e.g. card suits
+
+-Finish on time
