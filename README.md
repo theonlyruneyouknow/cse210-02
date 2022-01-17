@@ -3,8 +3,7 @@ Repository for CSE 210 Team-J-12pm game design for week 3.
 
 Hilo Specification
 
-Life is not a matter of holding good cards,
-
+Life is not a matter of holding good cards, 
 but sometimes, playing a poor hand well.
 
 Jack London 
@@ -16,9 +15,7 @@ Rules
 Hilo is played according to the following rules.
 
 The player starts the game with 300 points.
-
 Individual cards are represented as a number from 1 to 13.
-
 The current card is displayed.
 
 The player guesses if the next one will be higher or lower.
@@ -38,22 +35,15 @@ If a player decides not to play again the game is over.
 ![image](https://user-images.githubusercontent.com/90766037/149841251-3ccd3438-7d71-4266-a7e4-aa8b0d9a0155.png)
 
 Requirements
-The program must also meet the following requirements.
-
-The program must include a README file.
-
-The program must include class and method comments.
-
-The program must have at least two classes.
-
-The program must remain true to game play described in the overview.
+-The program must also meet the following requirements.
+-The program must include a README file.
+-The program must include class and method comments.
+-The program must have at least two classes.
+-The program must remain true to game play described in the overview.
 
 Have Some Fun
 
 Have some fun by enhancing the game any way you like. A few ideas are as follows.
-
-Enhanced input validation.
-
-Enhanced game play and game over messages.
-
-Enhanced game display, e.g. card suits
+-Enhanced input validation.
+-Enhanced game play and game over messages.
+-Enhanced game display, e.g. card suits
